@@ -225,6 +225,7 @@ for game in range(6):
     next_guess_words_list = initial_next_guess_words(next_possible_letters, letter_to_words)
     if green:
         next_guess_words_list = green_filter(next_guess_words_list)
+
     if yellow:
         next_guess_words_list = yellow_filter(next_guess_words_list)
     next_guess_words_list = black_filter(next_guess_words_list)
