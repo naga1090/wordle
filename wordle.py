@@ -77,11 +77,14 @@ def play():
 
 
 total_turns = 0
+result_total = ""
 
 
 def play_guess(guess="irate"):
-    valid_guess = False
     global total_turns
+    global result_total
+
+    valid_guess = False
     total_turns += 1
     while not valid_guess:
         # if guess == "irate":
@@ -121,11 +124,19 @@ def play_guess(guess="irate"):
                 green_letters.append(letter)
 
     str_rep = str_rep[:-1]
-    print(str_rep)
+    result_total += str_rep + ', '
+    # print(str_rep)
     if word == guess:
         # print()
         # print("word: " + word)
         # print("Game Won! Congratulations!!!!!!")
-        print(total_turns)
-        exit()
+        result_total = result_total[:-2]
+        result_total = str(total_turns) + ", " + result_total
+        print(result_total)
+        exit(0)
+    # elif total_turns == 6:
+    #     result_total = result_total[:-2]
+    #     result_total = "-1, " + result_total
+    #     print(result_total)
+    #     exit(1)
     return str_rep

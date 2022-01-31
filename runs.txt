@@ -1,0 +1,98 @@
+8, i b r b a b t b e y, n b o b l g e y s g, m b e g l g d b s g, y b e g l g p b s g, w b e g l g k b s g, s y e g l g f b s g, c b e g l g l g s g, h g e g l g l g s g
+4, i b r b a y t b e g, p b s y o b a y e g, s g a g l y u b e g, s g a g b g l g e g
+5, i b r g a b t b e y, o b r g l b e y s b, p b r g e g d b y b, k y r g e g n b g b, w g r g e g c g k g
+6, i b r b a y t b e b, s b o b l b a y n y, a y d b u y n y c b, b b u g n g y b a g, p g u g n g g b a g, p g u g n g k g a g
+5, i y r b a b t b e b, n b o y i y l b s y, d b i y s y c b o y, s g h g o g g b i g, s g h g o g j g i g
+5, i y r b a y t b e b, d b o b s y a y i y, n b a g i y l b s g, c b a g m g i g s g, k g a g m g i g s g
+5, i b r b a b t y e b, s b t y o y l b n b, d b o g u g b b t y, t g o g u g c b h g, t g o g u g g g h g
+3, i y r b a b t b e b, n b o g i g l g s g, c g o g i g l g s g
+9, i y r b a b t b e y, s g o b l b e g i y, s g i g n b e g d b, s g i g c b e g s g, s g i g p b e g s g, s g i g k b e g s g, s g i g z b e g s g, s g i g x b e g s g, s g i g s g e g s g
+4, i b r b a b t y e y, t y o g l b e g s b, n b o g t y e g d y, g g o g d g e g t g
+5, i y r g a g t b e b, k b r g a g i g s b, d b r g a g i g l b, g b r g a g i g n b, f g r g a g i g m g
+3, i b r b a g t b e b, l y o y a g n b s g, o g d g a g l g s g
+6, i b r b a b t b e g, l y o b u g s b e g, b b l g u g d b e g, p b l g u g m b e g, k y l g u g g b e g, f g l g u g k g e g
+3, i b r b a y t y e b, t y o b l y a y s y, s g a g u g l g t g
+4, i b r b a b t b e b, n b o y u b l b s y, s g c g o g d b y b, s g c g o g w g p g
+5, i b r b a y t b e g, p b s b o b a y e g, l b a g n g d b e g, h b a g n g c g e g, n g a g n g c g e g
+6, i b r b a b t g e b, l b o b u y t g s b, p b u g n b t g y g, b b u g f b t g y g, c b u g t g t g y g, g g u g t g t g y g
+6, i b r y a b t y e b, r y o b t y l b s g, t g u g r g n b s g, t g u g r g d b s g, t g u g r g p b s g, t g u g r g m g s g
+4, i b r y a b t b e y, s y o g r y e g l b, r g o g n b e g s g, r g o g u g e g s g
+4, i y r b a b t b e b, n b o b i y l b s g, b b u b d b i y s g, g g i g m g p g s g
+3, i b r b a g t b e b, l y o b a g n g s g, u g l g a g n g s g
+5, i b r y a b t b e g, s b n b o y r y e g, r y o g u b l b e g, h g o g r g d b e g, h g o g r g m g e g
+6, i y r b a b t b e y, s b o b l b e g i y, p b i g n b e g d g, y b i g k b e g d g, g b i g b y e g d g, b g i g d g e g d g
+3, i y r b a b t b e b, n b o g i y l b s b, d g o g m g i g c g
+4, i b r g a b t y e b, t y r g o g n b s y, c b r g o g s g t g, p g r g o g s g t g
+5, i b r b a y t g e y, c b e g s g t g a g, f b e g s g t g a g, v b e g s g t g a g, t g e g s g t g a g
+5, i b r b a b t b e g, l y o b u b s b e g, c b l y y b p b e g, m g e g d b l y e g, m g e g l g e g e g
+3, i b r b a b t y e y, t g o b l g e g s b, t g e g l g e g x g
+6, i b r b a b t b e y, n b o g l b e g s g, m b o g u b e g s g, c y o g d b e g s g, v b o g c g e g s g, s g o g c g e g s g
+4, i b r y a b t y e y, t y o b r y e y s y, s y t y e g r y n b, r g e g e g s g t g
+4, i b r b a b t b e y, n b o b l g e y s g, m b e g l g d b s g, y g e g l g p g s g
+6, i b r b a b t b e y, n b o b l b e y s g, d b e y g b u b s g, c b h g e g m b s g, w g h g e g y b s g, w g h g e g w g s g
+7, i b r b a b t y e b, s b t y o b l b n b, d b u g t g c g h g, m b u g t g c g h g, b b u g t g c g h g, k b u g t g c g h g, c g u g t g c g h g
+5, i b r b a b t y e b, s g t g o b l b n b, s g t g u g d b y b, s g t g u g m b p b, s g t g u g c g k g
+4, i b r b a b t g e b, l b o g u b t g s b, p b o g n g t g y g, m g o g n g t g y g
+9, i b r b a b t g e y, e y y b o b t g s g, d b e g l b t g s g, c b e g n b t g s g, h b e g f b t g s g, s y e g p b t g s g, m b e g e y t g s g, g b e g s g t g s g, b g e g s g t g s g
+8, i y r b a b t b e y, s y o b l b e g i y, n b i g d b e g s g, y b i g p b e g s g, b b i g c b e g s g, m b i g k b e g s g, h b i g v b e g s g, w g i g f g e g s g
+3, i y r g a b t y e y, t g r g i y e y s b, t g r g e g i g f g
+4, i b r b a b t y e y, t y o y l b e g s b, o g n b c y e g t g, o g c g t g e g t g
+4, i y r b a b t y e y, t y i y l b e y s b, n b e g p y i g t g, p g e g w g i g t g
+3, i y r b a b t y e y, t y i g l g e g s b, g g i g l g e g t g
+4, i y r b a b t y e y, t y i y l b e y s b, n b e y p b i g t y, e g t g h g i g c g
+6, i b r y a b t b e g, s b n b o b r g e g, l b u b c b r g e g, y b f b e g r g e g, w b h b e g r g e g, d g e g e g r g e g
+3, i b r b a b t b e y, n b o b l y e y s b, l g e g d g u g m g
+6, i b r b a b t b e b, n b o g u b l b s b, p b o g d b g b y g, m g o g c b h b y g, m g o g b b b b y g, m g o g m g m g y g
+5, i b r b a b t b e b, n b o b u y l b s g, d b u g m b p b s g, y b u g c y k g s g, c g u g s g k g s g
+5, i b r b a y t y e b, t y o b l b a g s b, u b n b h b a g t y, w b a y t g a g p g, a g t g t g a g p g
+3, i b r b a b t y e y, t y o y l g e g s b, o g w g l g e g t g
+7, i b r b a y t b e y, a y l b o b e g s g, c b a g n b e g s g, d b a g m b e g s g, y b a g g b e g s g, h g a g k b e g s g, h g a g v g e g s g
+4, i b r y a y t b e y, a y e y r y o b s b, l y a g d b e g r g, p g a g l g e g r g
+4, i b r y a g t b e b, r y o b a g n y s b, g g n g a g r g l b, g g n g a g r g r g
+5, i b r b a b t b e g, l b o g u y s b e g, c b o g g g u g e g, b b o g g g u g e g, v g o g g g u g e g
+5, i b r b a b t b e g, l y o y u b s b e g, c b l y o g n b e g, d b h g o g l g e g, w g h g o g l g e g
+6, i b r g a b t y e y, t y r g u b e y s y, d b r g e g s g t g, c b r g e g s g t g, p b r g e g s g t g, w g r g e g s g t g
+7, i y r b a b t b e g, n b o g i y s b e g, l b o g u b i g e g, d b o g g b i g e g, h b o g m y i g e g, m g o g b b i g e g, m g o g v g i g e g
+4, i y r b a b t b e b, n b o b i y l g s b, d b i g m b l g y g, h g i g p g l g y g
+3, i b r y a b t g e b, r g o b n b t g s g, r g u g s g t g s g
+8, i b r b a b t b e y, n b o g l b e g s b, c b o g y b e g d g, m b o g p b e g d g, h b o g k b e g d g, b g o g w b e g d g, b g o g x b e g d g, b g o g o g e g d g
+4, i b r b a y t b e y, a y l y o b e g s b, n y a g l y e g d b, p g a g n g e g l g
+3, i b r b a b t y e y, t y o b l y e g s b, l g u g n g e g t g
+6, i b r b a b t b e y, n b o b l g e g s g, d b u g l g e g s g, y b u g l g e g s g, p b u g l g e g s g, m g u g l g e g s g
+4, i y r b a b t y e b, t y o b i g l y s b, c b l g i g n b t g, g g l g i g f g t g
+9, i b r b a b t b e b, n y o g u b l b s g, p b o g n g d b s g, g b o g n g y b s g, c b o g n g k g s g, m b o g n g k g s g, h b o g n g k g s g, b b o g n g k g s g, w g o g n g k g s g
+3, i y r g a b t b e g, c y r g i g s b e g, d g r g i g c g e g
+8, i b r y a y t b e b, s y o b r g a y l b, n b a g r g d b s g, c b a g r g p g s g, h b a g r g p g s g, b b a g r g p g s g, w b a g r g p g s g, j g a g r g p g s g
+9, i b r y a b t b e g, s y n b o y r y e g, r y o g u b s g e g, d b o g r g s g e g, c b o g r g s g e g, m b o g r g s g e g, h b o g r g s g e g, g b o g r g s g e g, w g o g r g s g e g
+6, i y r b a b t b e y, s b o b l b e g i y, p b i g n b e g d g, y b i g k g e g d g, m b i g k g e g d g, h g i g k g e g d g
+6, i y r y a y t b e b, r g a g i y l b s b, r g a g d b i y o b, r g a g n b g b i g, r g a g h b u b i g, r g a g b g b g i g
+10, i b r b a b t g e b, l y o g u b t g s g, d b o g l g t g s g, c b o g l g t g s g, p b o g l g t g s g, m b o g l g t g s g, h b o g l g t g s g, b b o g l g t g s g, v b o g l g t g s g, j g o g l g t g s g
+7, i b r b a b t b e b, n b o g u b l g s g, m b o g y b l g s g, d b o g w g l g s g, c b o g w g l g s g, h b o g w g l g s g, g g o g w g l g s g
+4, i y r b a b t b e y, s y o b l y e y i y, l y i y e y n y s y, e g l g s g i g n g
+5, i b r b a b t b e b, n y o b u y l b s g, d b u g n g g b s g, p b u g n g k b s g, b g u g n g n g s g
+7, i b r y a b t b e y, s g o b r y e y l b, s g h b e g r g d b, s g p b e g r g m b, s g w b e g r g f b, s g u b e g r g s g, s g k g e g r g s g
+4, i b r g a g t b e b, o b r g a g l b s b, g b r g a g n g d b, c g r g a g n g k g
+5, i y r b a g t b e b, s b n b a g i g l y, p b l g a g i g d b, c b l g a g i g m b, g g l g a g i g k g
+6, i b r b a b t b e b, n b o g u b l y s b, m b o g l y d b y g, l g o g o y p b y g, l g o g g b g b y g, l g o g b g b g y g
+4, i b r y a y t b e b, s g o b r y a y l b, s g a y u g r g y b, s g h g u g r g a g
+3, i b r b a b t b e b, n y o g u b l y s b, l g o g w g n g d g
+6, i b r b a y t b e y, a y l b o b e g s b, c b a g n g e g d b, m b a g n g e g h b, w b a g n g e g y b, g g a g n g e g f g
+9, i b r y a b t b e y, s b o g r y e g l b, r y o g u b e g n b, c b o g d b e g r g, m b o g p b e g r g, y b o g k b e g r g, g b o g f b e g r g, b b o g w b e g r g, h g o g v g e g r g
+4, i b r y a g t b e b, r y o b a g n b s y, s g c g a g u b r y, s g c g a g r g y g
+4, i b r b a y t y e b, t y o y l b a y s b, a g y b o y n b t g, a g d g b g o g t g
+5, i g r y a b t b e y, i g c b e y r y s b, i g d b l b e g r g, i g n g k b e g r g, i g n g f g e g r g
+7, i b r b a b t b e y, n y o g l b e g s g, c b o g n g e g s g, p b o g n g e g s g, h b o g n g e g s g, b b o g n g e g s g, f g o g n g e g s g
+4, i b r g a b t b e b, u y r g s b o b n b, c g r g u g d b y b, c g r g u g m g p g
+6, i y r y a y t b e b, r g a g i g l b s g, r g a g i g n b s g, r g a g i g d b s g, r g a g i g k b s g, r g a g i g a g s g
+5, i b r y a g t y e b, r y o b a g s y t y, s y t y a g r g n b, t g h b a g r g s g, t g z g a g r g s g
+2, i g r b a b t b e y, i g l g e g u g s g
+4, i b r b a b t b e b, n b o b u y l b s y, p b u g d b s g y g, f g u g b g s g y g
+8, i b r y a y t b e y, a y e y r y o b s g, r g a g l b e g s g, r g a g c b e g s g, r g a g p b e g s g, r g a g g b e g s g, r g a g k b e g s g, r g a g v g e g s g
+4, i b r b a y t b e b, s y o b l y a g n y, u b l y n y a g s y, n g a g s g a g l g
+4, i b r y a y t b e b, s b o b r y a g l y, u y l y n b a g r g, g g u g l g a g r g
+6, i b r y a b t b e b, r y o g u b l b s y, h b o g r g s y y b, s g o g r g d b o g, s g o g r g g b o g, s g o g r g b g o g
+4, i y r b a b t b e b, n y o b i g l b s b, d g u b i g n g g b, d g j g i g n g n g
+7, i b r b a y t b e b, s y o b l b a y n b, y b a g u b d b s g, c b a g m b p b s g, b b a g g b h b s g, w b a g k b f g s g, f g a g f g f g s g
+4, i b r y a y t y e b, t y o y r y a y s b, a y c b t g o g r y, r g a g t g o g o g
+8, i b r b a y t b e y, a y l y o b e g s b, n b a g l g e g d g, p b a g l g e g d g, h b a g l g e g d g, g b a g l g e g d g, b b a g l g e g d g, w g a g l g e g d g
+5, i b r b a b t b e b, n b o g u b l b s b, p b o g d b g b y g, m b o g c g h b y g, j g o g c g k g y g
