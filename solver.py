@@ -217,17 +217,52 @@ green = False
 num_letters_to_search_with = 4
 next_not_letter = []
 
-for game in range(6):
-    raw_guess = make_guess()
+
+def solve():
+
+    global yellow_tracker
+    global green_tracker
+    global yellow
+    global green
+    global num_letters_to_search_with
+    global next_not_letter
+
+    for game in range(6):
+        raw_guess = make_guess()
+        valid_guess = validate_guess(raw_guess)
+        filtered_guess = filter_guess(valid_guess)
+        next_possible_letters = add_search_letters(filtered_guess, letter_to_freq)
+        next_guess_words_list = initial_next_guess_words(next_possible_letters, letter_to_words)
+        if green:
+            next_guess_words_list = green_filter(next_guess_words_list)
+        if yellow:
+            next_guess_words_list = yellow_filter(next_guess_words_list)
+        next_guess_words_list = black_filter(next_guess_words_list)
+        print(get_guess(next_guess_words_list, words_to_average_freq))
+        print()
+
+
+def solve_guess(guess=""):
+    global yellow_tracker
+    global green_tracker
+    global yellow
+    global green
+    global num_letters_to_search_with
+    global next_not_letter
+
+    raw_guess = guess
+    if guess == "":
+        raw_guess = make_guess()
     valid_guess = validate_guess(raw_guess)
     filtered_guess = filter_guess(valid_guess)
     next_possible_letters = add_search_letters(filtered_guess, letter_to_freq)
     next_guess_words_list = initial_next_guess_words(next_possible_letters, letter_to_words)
     if green:
         next_guess_words_list = green_filter(next_guess_words_list)
-
     if yellow:
         next_guess_words_list = yellow_filter(next_guess_words_list)
     next_guess_words_list = black_filter(next_guess_words_list)
-    print(get_guess(next_guess_words_list, words_to_average_freq))
-    print()
+    possible_guesses = get_guess(next_guess_words_list, words_to_average_freq)
+    # print(possible_guesses)
+    # print()
+    return possible_guesses[0][2]
